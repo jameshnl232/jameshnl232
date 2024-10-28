@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumpybird" alt="dumpybird" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
-
 - 📫 How to reach me **luongpower232@gmail.com**
 
 - ⚡ Fun fact **When I drink beer, I turn red!**

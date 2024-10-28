@@ -1,3 +1,5 @@
+![htw berlin background](https://github.com/user-attachments/assets/b048f577-00d8-411b-ac76-001024890546)
+
 
 <h1 align="center">Hi 👋, I'm Luong Hoang</h1>
 <h3 align="center">Mediainformatics Student, AWS & Blockchain enthusiast.</h3>
